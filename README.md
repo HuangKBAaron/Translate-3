@@ -4,4 +4,5 @@ I made this to translate lots of text from another project, it uses Google's Tra
 **Requeriments**
 
 -Python3
+
 -Selenium
